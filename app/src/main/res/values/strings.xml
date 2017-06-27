@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DishManager</string>
+    <string name="add_new_dish">新增</string>
+    <string name="ask_is_del1">您确定要删除 [</string>
+    <string name="ask_is_del2">] 吗？</string>
+    <string name="dialog_ok">确认</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="back_to_main">返回</string>
+    <string name="enter_name">请输入名称</string>
+    <string name="save_new_dish">保存</string>
+    <string name="add_name_tv">名称:</string>
+    <string name="add_type_tv">类别:</string>
+    <string name="plz_enter_dish_name">请输入菜名</string>
+    <string name="add_success">添加成功！</string>
+</resources>
