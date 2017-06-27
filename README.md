@@ -1,2 +1,4 @@
 # DishManager
 通过ContentResolver获取ContentProvider数据并实现相关接口（增删改查）
+
+解压文件为ContentProvider，用来提供数据
